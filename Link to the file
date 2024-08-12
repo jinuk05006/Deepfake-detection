@@ -1,0 +1,13 @@
+#This is the link to the deepfake detection file:
+https://drive.google.com/file/d/1ixub7QXN0ZSQ_U1_4BxzcoYfPyDHnoLV/view?usp=sharing
+
+#Credit for the model goes to @talreiss
+
+#citation
+
+@article{reiss2023detecting,
+  title={Detecting Deepfakes Without Seeing Any},
+  author={Reiss, Tal and Cavia, Bar and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2311.01458},
+  year={2023}
+}
